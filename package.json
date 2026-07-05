@@ -1,5 +1,9 @@
 {
     "name": "spark-template",
+    "engines": { "node": ">=24.13.0" },
+    "repository": { "type": "git", "url": "https://github.com/and3rn3t/posture.git" },
+    "license": "MIT",
+    "description": "Posture tracking app — Spark template starter (early stage).",
     "private": true,
     "version": "0.0.0",
     "type": "module",
